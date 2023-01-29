@@ -20,3 +20,5 @@ But if this is a chance encounter, then I encourage you to check out my other pl
 
 ### Be curious and look around!
 If you have any questions, concerns, or criticism feel free to message me whenever and whatever you like!
+
+## P.S. You may find some Easter Eggs in my code. Ask me about them!
