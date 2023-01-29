@@ -9,7 +9,8 @@
 ## I am a young, technology professional who spends nearly every day coding and learning cybersecurity.
 If you peruse my repositories you'll find many unique projects, from a [JS Twitch Chatbot](https://github.com/TrshPuppy/trsh_bot) to a [C# horror game in Unity](https://www.youtube.com/watch?v=KpIVc9XPZcc). There's even a [repo of all my notetaking](https://github.com/TrshPuppy/obsidian-notes) on computers, math, and hacking.
 
-### If you're reading this, we've likely crossed cyber paths.
+## Checkout my ever-updating [Portfolio](https://trshpuppy.github.io) with live previews of a few of my projects!
+### If you're reading this, we've likely crossed cyber-paths.
 But if this is a chance encounter, then I encourage you to check out my other platforms:
 
 - [YouTube](https://youtube.com/@trshpuppy)
