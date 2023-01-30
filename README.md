@@ -15,6 +15,8 @@ But if this is a chance encounter, then I encourage you to check out my other pl
 
 - [YouTube](https://youtube.com/@trshpuppy)
 - [Twitch](https://www.twitch.tv/trshpuppy)
+- [Codewars](codewars.com/users/TrshPuppy)
+- [Try Hack Me](tryhackme.com/p/TrshPuppy)
 - and [Twitter](https://twitter.com/trshpuppy)
 
 
