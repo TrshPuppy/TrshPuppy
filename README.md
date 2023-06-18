@@ -13,7 +13,7 @@ If you peruse my repositories you'll find many unique projects, including:
 - [My notes](https://github.com/TrshPuppy/obsidian-notes) on computers, coding, and hacking.
 - And even some [old Codewars kata](https://github.com/TrshPuppy/noob-vs-pro) solutions!
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=trshpuppy&layout=compact&theme=synthwave&hide=html,css&langs_count=6) | In private, organization</br> repos  I've also coded </br> Typescript and React! | <img src="https://github.com/TrshPuppy/TrshPuppy/assets/101938172/1156536d-da3b-4d95-8129-1c1835ab4e87" style="width:175px;text-align:center"/>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=trshpuppy&layout=compact&theme=synthwave&hide=html,css&langs_count=6) | In private, organization</br> repos  I've also coded </br> Typescript and React! | <img src="https://github.com/TrshPuppy/TrshPuppy/assets/101938172/1156536d-da3b-4d95-8129-1c1835ab4e87" style="width:177px;text-align:center"/>
 :-|-|-:
 
 ### I have a [YouTube channel](https://youtube.com/@trshpuppy) and a [Twitch stream](https://www.twitch.tv/trshpuppy)
