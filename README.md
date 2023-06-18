@@ -1,7 +1,4 @@
-
-
-
-# Hello and Welcome to my Trash Heap!
+# Hello && Welcome to my Trash Heap! ![dumpster-tier-2-72](https://github.com/TrshPuppy/TrshPuppy/assets/101938172/a5968e64-1f56-4a83-8313-721b1cac5ab5)
 
 <img src="https://user-images.githubusercontent.com/101938172/215300412-dfd90ae1-831a-494b-9662-617d9b6b71b5.gif" style="width:200px;text-align:center"/> | [![Rose's Stats](https://github-readme-stats.vercel.app/api?username=trshpuppy&show_icons=true&theme=synthwave)](https://github.com/trshpuppy/github-readme-stats)
 :-|-:
