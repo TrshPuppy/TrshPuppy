@@ -8,6 +8,7 @@ If you peruse my repositories you'll find many unique projects, including:
 - A [JS Twitch Chatbot](https://github.com/TrshPuppy/trsh_bot)
 - A [Vagrant VM environment](https://github.com/TrshPuppy/vagrant) for ethical hacking and software development
 - [My notes](https://github.com/TrshPuppy/obsidian-notes) on computers, coding, and hacking.
+- My version of React which I call ["Turn this Virtual Boi into a Real Boi"](https://github.com/TrshPuppy/to-do-list/blob/0e286dabc2d1a2e1843d6cdc7907d9bbb9356e3d/src/classes.js#L78)
 - And even some [old Codewars kata](https://github.com/TrshPuppy/noob-vs-pro) solutions!
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=trshpuppy&layout=compact&theme=synthwave&hide=html,css&langs_count=6) | In private, organization</br> repos  I've also coded </br> Typescript and React! | <img src="https://github.com/TrshPuppy/TrshPuppy/assets/101938172/1156536d-da3b-4d95-8129-1c1835ab4e87" style="width:177px;text-align:center"/>
