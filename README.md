@@ -16,7 +16,7 @@ If you peruse my repositories you'll find many unique projects, including:
 
 ### I have a [YouTube channel](https://youtube.com/@trshpuppy) and a [Twitch stream](https://www.twitch.tv/trshpuppy)
 where I document my progress and hang out with people while I learn!
-## If you're reading this, we've likely crossed cyber-paths.
+## If you're reading this, we've likely crossed paths.
 But if this is a chance encounter, then I encourage you to check out my other platforms:
 
 - [Codewars](codewars.com/users/TrshPuppy)
