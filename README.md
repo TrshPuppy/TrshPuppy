@@ -5,11 +5,11 @@
 
 ## I spend nearly everyday coding and practicing cybersecurity!
 If you peruse my repositories you'll find many unique projects, including:
-- A [Homelab built w/ Vagrant VMs](https://github.com/TrshPuppy/vagrant) for ethical hacking and software development
-- [NetPuppy](https://github.com/TrshPuppy/netpuppy) my version of Netcat, written in python!
-- A [JS Twitch Chatbot](https://github.com/TrshPuppy/trsh_bot)
-- [My notes](https://github.com/TrshPuppy/obsidian-notes) on computers, coding, and hacking.
-- And even some Codewars kata solutions including a [Whitespace Interpreter](https://github.com/trshpuppy/whitespace-interpreter)!
+### - A [Homelab built w/ Vagrant VMs](https://github.com/TrshPuppy/vagrant) for ethical hacking and software development
+### - [NetPuppy](https://github.com/TrshPuppy/netpuppy) my version of Netcat, written in python!
+### - A [JS Twitch Chatbot](https://github.com/TrshPuppy/trsh_bot)
+### - [My notes](https://github.com/TrshPuppy/obsidian-notes) on computers, coding, and hacking.
+### - And even some Codewars kata solutions including a [Whitespace Interpreter](https://github.com/trshpuppy/whitespace-interpreter)!
 
 ![Top Langs](https://github-readme-stats-6dzqt8e32-trshpuppy.vercel.app/api/top-langs/?username=trshpuppy&layout=compact&theme=synthwave&hide=html,css&langs_count=6) | In private, organization</br> repos  I've also coded </br> Typescript and React! | <img src="https://github.com/TrshPuppy/TrshPuppy/assets/101938172/1156536d-da3b-4d95-8129-1c1835ab4e87" style="width:177px;text-align:center"/>
 :-|-|-:
