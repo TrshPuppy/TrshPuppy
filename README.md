@@ -29,3 +29,4 @@ But if this is a chance encounter, then I encourage you to check out my other pl
 If you have any questions, concerns, or criticism feel free to message me whenever and whatever you like!
 
 ## P.S. You may find some Easter Eggs in my code. Ask me about them!
+![](https://media.giphy.com/media/riwUvx9DmD1bSTw05Z/giphy-downsized-large.gif)
