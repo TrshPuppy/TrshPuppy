@@ -11,6 +11,7 @@ If you peruse my repositories you'll find many unique projects, including:
 ### - [My notes](https://github.com/TrshPuppy/obsidian-notes) on computers, coding, and hacking.
 ### - And even some Codewars kata solutions including a [Whitespace Interpreter](https://github.com/trshpuppy/whitespace-interpreter)!
 
+# Check out my [website](https://trshpuppy.github.io) where I post lots of [cybersecurity writeups](https://trshpuppy.github.io/portfolio/writeups)!
 ![Top Langs](https://github-readme-stats-6dzqt8e32-trshpuppy.vercel.app/api/top-langs/?username=trshpuppy&layout=compact&theme=synthwave&hide=html,css&langs_count=6) | In private, organization</br> repos  I've also coded </br> Typescript and React! | <img src="https://github.com/TrshPuppy/TrshPuppy/assets/101938172/1156536d-da3b-4d95-8129-1c1835ab4e87" style="width:177px;text-align:center"/>
 :-|-|-:
 
