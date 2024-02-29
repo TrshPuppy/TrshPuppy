@@ -5,7 +5,7 @@
 
 ## I spend nearly everyday coding and practicing cybersecurity!
 If you peruse my repositories you'll find many unique projects, including:
-### - [NetPuppy](https://github.com/TrshPuppy/netpuppy) my version of Netcat, written in python!
+### - [NetPuppy](https://github.com/TrshPuppy/netpuppy) my version of Netcat, written in Golang!
 ### - A [JS Twitch Chatbot](https://github.com/TrshPuppy/trsh_bot)
 ### - A [Homelab built w/ Vagrant VMs](https://github.com/TrshPuppy/vagrant) for ethical hacking and software development
 ### - [My notes](https://github.com/TrshPuppy/obsidian-notes) on computers, coding, and hacking.
