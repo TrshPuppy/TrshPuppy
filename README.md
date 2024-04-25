@@ -23,7 +23,7 @@ But if this is a chance encounter, then I encourage you to check out my other pl
 - [Codewars](codewars.com/users/TrshPuppy)
 - [Try Hack Me](tryhackme.com/p/TrshPuppy)
 - [Hack the Box](https://app.hackthebox.com/profile/1343592)
-- [LinkedIn](www.linkedin.com/in/trshpuppy)
+<!-- Removed LinkedIn - [LinkedIn](www.linkedin.com/in/trshpuppy) -->
 - and [Twitter](https://twitter.com/trshpuppy)
 
 ### Be curious and look around!
