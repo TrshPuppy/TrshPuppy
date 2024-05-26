@@ -1,6 +1,6 @@
 # Hello && Welcome to my Trash Heap! ![dumpster-tier-2-72](https://github.com/TrshPuppy/TrshPuppy/assets/101938172/a5968e64-1f56-4a83-8313-721b1cac5ab5)
 
-<img src="https://user-images.githubusercontent.com/101938172/215300412-dfd90ae1-831a-494b-9662-617d9b6b71b5.gif" style="width:200px;text-align:center"/> | [![Rose's Stats](https://github-readme-stats-90gzcblso-trshpuppy.vercel.app/api?username=trshpuppy&show_icons=true&theme=synthwave)](https://github.com/trshpuppy/github-readme-stats)
+<img src="https://user-images.githubusercontent.com/101938172/215300412-dfd90ae1-831a-494b-9662-617d9b6b71b5.gif" style="width:200px;text-align:center"/> | [![Rose's Stats](https://github-readme-stats-one-phi-85.vercel.app/api?username=trshpuppy&show_icons=true&theme=synthwave)](https://github.com/trshpuppy/github-readme-stats)
 :-|-:
 
 ## I spend nearly everyday coding and practicing cybersecurity!
@@ -12,7 +12,7 @@ If you peruse my repositories you'll find many unique projects, including:
 ### - And even some Codewars kata solutions including a [Whitespace Interpreter](https://github.com/trshpuppy/whitespace-interpreter)!
 
 # Check out my [website](https://trshpuppy.github.io) where I post lots of [cybersecurity writeups](https://trshpuppy.github.io/portfolio/writeups)!
-![Top Langs](https://github-readme-stats-90gzcblso-trshpuppy.vercel.app/api/top-langs/?username=trshpuppy&layout=compact&theme=synthwave&hide=html,css&langs_count=6) | In private, organization</br> repos  I've also coded </br> Typescript and React! | <img src="https://github.com/TrshPuppy/TrshPuppy/assets/101938172/1156536d-da3b-4d95-8129-1c1835ab4e87" style="width:177px;text-align:center"/>
+![Top Langs](https://github-readme-stats-one-phi-85.vercel.app/api/top-langs/?username=trshpuppy&layout=compact&theme=synthwave&hide=html,css&langs_count=6) | In private, organization</br> repos  I've also coded </br> Typescript and React! | <img src="https://github.com/TrshPuppy/TrshPuppy/assets/101938172/1156536d-da3b-4d95-8129-1c1835ab4e87" style="width:177px;text-align:center"/>
 :-|-|-:
 
 ### I have a [YouTube channel](https://youtube.com/@trshpuppy) and a [Twitch stream](https://www.twitch.tv/trshpuppy)
