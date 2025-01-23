@@ -9,22 +9,7 @@ If you peruse my repositories you'll find many unique projects, including:
 ### - A [JS Twitch Chatbot](https://github.com/TrshPuppy/trsh_bot)
 ### - A [Homelab built w/ Vagrant VMs](https://github.com/TrshPuppy/vagrant) for ethical hacking and software development
 ### - [My notes](https://github.com/TrshPuppy/obsidian-notes) on computers, coding, and hacking.
-### - And even some Codewars kata solutions including a [Whitespace Interpreter](https://github.com/trshpuppy/whitespace-interpreter)!
-
-# Check out my [website](https://trshpuppy.github.io) where I post lots of [cybersecurity writeups](https://trshpuppy.github.io/portfolio/writeups)!
-![Top Langs](https://github-readme-stats-one-phi-85.vercel.app/api/top-langs/?username=trshpuppy&layout=compact&theme=synthwave&hide=html,css&langs_count=6) | In private, organization</br> repos  I've also coded </br> Typescript and React! | <img src="https://github.com/TrshPuppy/TrshPuppy/assets/101938172/1156536d-da3b-4d95-8129-1c1835ab4e87" style="width:177px;text-align:center"/>
-:-|-|-:
-
-### I have a [YouTube channel](https://youtube.com/@trshpuppy) and a [Twitch stream](https://www.twitch.tv/trshpuppy)
-where I document my progress and hang out with people while I learn!
-## If you're reading this, we've likely crossed paths.
-But if this is a chance encounter, then I encourage you to check out my other platforms:
-
-- [Codewars](codewars.com/users/TrshPuppy)
-- [Try Hack Me](tryhackme.com/p/TrshPuppy)
-- [Hack the Box](https://app.hackthebox.com/profile/1343592)
-- [LinkedIn](www.linkedin.com/in/trshpuppy)
-- and [Twitter](https://twitter.com/trshpuppy)
+### - And even some Codewars kata solutions including a [Whitespace Interpreter](https://github.com/trshpuppy/whitespace-interpreter)
 
 ### Be curious and look around!
 If you have any questions, concerns, or criticism feel free to message me whenever and whatever you like!
